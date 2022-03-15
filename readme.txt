@@ -1,1 +1,1 @@
-this is a anaolog clock using only html,css and javascript
+this is a analog clock using only html,css and javascript
